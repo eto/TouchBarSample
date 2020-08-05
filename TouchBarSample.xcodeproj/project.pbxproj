@@ -21,6 +21,7 @@
 		5E1A4BC324DA2A0C004D91BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5E1A4BC524DA2A0C004D91BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5E1A4BC624DA2A0C004D91BA /* TouchBarSample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TouchBarSample.entitlements; sourceTree = "<group>"; };
+		5ED7A66A24DA302B005F2051 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		5E1A4BB024DA2A0C004D91BA = {
 			isa = PBXGroup;
 			children = (
+				5ED7A66A24DA302B005F2051 /* README.md */,
 				5E1A4BBB24DA2A0C004D91BA /* TouchBarSample */,
 				5E1A4BBA24DA2A0C004D91BA /* Products */,
 			);
